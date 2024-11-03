@@ -112,13 +112,10 @@ int main() {
 
     return 0;
 }
-
-
-
 ```
-## OUTPUT: 
-![Screenshot 2024-10-18 140232](https://github.com/user-attachments/assets/946c4e44-305d-4f1c-93ca-e7c53822aebc)
 
+## OUTPUT: 
+![image](https://github.com/user-attachments/assets/d4d97062-5273-47c9-9980-deb7a404da66)
 
 ## RESULT: 
 Thus the Hash-based Message Authentication Code is implemented successfully.
